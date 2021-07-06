@@ -1,7 +1,5 @@
 # CSS-JAM-Sheet 
 
-# [Code-Snippet](https://www.30secondsofcode.org/css/p/1)
-
 # Gerneral 
     . Cascade == Means water-flow (Top to bottom priority)
     . nth-child(even,odd,child-number)  useful decorating list
