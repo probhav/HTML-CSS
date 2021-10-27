@@ -8,10 +8,4 @@
 
 [CSS-Grid](https://github.com/maskmanlucifer/CSS-Grid)
 
-[Portfolio](https://github.com/maskmanlucifer/portfolio)
 
-# About me
-
-Aman singh
-
-💻 Competitive Programmer
